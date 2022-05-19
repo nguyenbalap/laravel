@@ -22,7 +22,7 @@ final class OrderStatusEnum extends Enum
     {
         return [
             'Chờ phê duyệt' => self::CHO_PHE_DUYET,
-            'Chờ giao hàng' => self::CHO_GIAO_HANG,
+            'Chờ giao hàng ' => self::CHO_GIAO_HANG,
             'Đang giao' => self::DANG_GIAO,
             'Hoàn Thành' => self::HOAN_THANH,
             'Đã hủy' => self::DA_HUY,
